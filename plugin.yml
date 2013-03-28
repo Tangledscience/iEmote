@@ -1,0 +1,179 @@
+name: iEmote
+main: com.elysiummc.Iemote.Iemote
+version: 0.1
+commands:
+   ifacepalm:
+      description: Sigh...
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   iheaddesk:
+      description: Damn you!.
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ichc:
+      description: i can has cheezburger?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ishoot:
+      description: that sounds familiar..
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ibeer:
+      description: feeling tipsy?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   icreeper:
+      description: ouch!
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ihappy:
+      description: happy?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   isad:
+      description: bad day?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   icry:
+      description: really bad day?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ihigh:
+      description: you high?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   imad:
+      description: u mad bro?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   iyoda:
+      description: the force is strong!
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   irant:
+      description: calm down!
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   irave:
+      description: Glowsticks!
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   idrunk:
+      description: had too much?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   istoned:
+      description: had too much?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   itroll:
+      description: trolling much?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   idig:
+      description: dig dig dig..
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ipissed:
+      description: grrrr.
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ifart:
+      description: nice..
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ihungry:
+      description: need some food?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ithirsty:
+      description: need a drink?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ibusy:
+      description: not now!
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   itired:
+      description: yawn.
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   isleep:
+      description: zzzzzz..
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ibored:
+      description: on Elysium?!
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   idizzy:
+      description: everythings spinning!
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   iconfused:
+      description: what the?..
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   iwin:
+      description: Winning!
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ifail:
+      description: Doh!
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ilol:
+      description: Hahah
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ilmao:
+      description: Hahahaha!
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   iscared:
+      description: was that you?
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ihate:
+      description: haters hate..
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
+   ieat:
+      description: nomnomnom
+      usage: /<command>
+      permission: iemote.basic
+      permission-message: Sorry, not allowed
